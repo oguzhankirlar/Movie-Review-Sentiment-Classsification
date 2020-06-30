@@ -21,4 +21,4 @@ Each review is provided as a separate file. The tokens have already been lower-c
 6- You can download tabulate like that : ```pip install tabulate```
 
 
-
+![alt text](https://github.com/Oguzhan09/Movie-Review-Sentiment-Classsification/blob/master/naivebayes.png?raw=true)
