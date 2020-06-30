@@ -1,4 +1,4 @@
-# Movie-Review-Sentiment-Classsification
+# Movie-Review-Sentiment-Classification
 Implement three Naive Bayes (NB) classifiers, Multinomial NB, Bernoulli NB, and Binary NB, for identifying the sentiment (positive/negative) of a given movie review.
 
 Use the Cornell Movie Review Data Set (polarity dataset v2.0)(https://www.cs.cornell.edu/people/pabo/movie-review-data/) to train and test your classifiers.
